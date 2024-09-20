@@ -1,0 +1,29 @@
+/* AddUser.css */
+
+.form-container {
+  margin-top: 0px; /* Adjust this value to move the container up or down */
+  min-height: calc(
+    100vh - 100px
+  ); /* Ensure the container fills most of the viewport height */
+}
+
+.form-card {
+  width: 24rem; /* Ensure this matches the inline style width in the component */
+}
+
+.form {
+  margin: 0px;
+}
+
+.form-group {
+  margin-bottom: 0px;
+}
+
+.f-card {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.form-container-up {
+  padding-top: 2px !important; /* Adjust the value as needed */
+}

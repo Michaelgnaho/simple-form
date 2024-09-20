@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.bdy {
+  font-family: sans-serif;
+  background-image: url(background_image.svg);
+  height: 100% !important;
+  padding-bottom: 400px;
+}
+
+body {
+  margin: 2px;
+}
